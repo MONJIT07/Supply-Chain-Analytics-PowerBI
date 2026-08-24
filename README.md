@@ -1,6 +1,6 @@
 # 📦 Supply Chain Analytics Dashboard — Power BI
 
-A Power BI dashboard that tracks procurement spending, supplier performance, and delivery operations for a fictional India-based company across 2025.
+A Power BI dashboard that tracks procurement spending, supplier performance, and delivery operations for a simulated India-based company across 2025.
 
 ---
 
