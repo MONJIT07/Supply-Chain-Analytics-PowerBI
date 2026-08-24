@@ -1,8 +1,0 @@
-import express from 'express'
-import { createCheckoutSession } from '../controllers/orderController.js'
-
-const router = express.Router()
-
-router.post('/checkout', createCheckoutSession)
-
-export default router
